@@ -1,1 +1,1 @@
-This is the documentation and automated deployment script I wrote while learning Linux and deploying services during my regular studies. It is provided for your reference and learning. If there are any shortcomings, I welcome your criticism and guidance so that I can make improvements.
+These are the documentation and automated deployment scripts I wrote while learning Linux service deployment. They are shared for reference and learning purposes. Constructive feedback and suggestions for improvement are always welcome.
